@@ -26,9 +26,10 @@ This is a program implemented to detect and extract text from images using East 
 - ```text_extraction/text_extract_inp_image_(frame_number).txt``` : Contains the extracted text portion of the inp_images.
 
 # Sample Outputs:
+The East Detection model requires dimenstions to be as a multiples of 32 and this is done in [east_detector.py](east_detector.py).
 <table>
     <tr>
-        <td colspan = "2" align = "center" > (a) Bounding Boxes using the East Detection Method </td>
+        <td colspan = "2" align = "center" > Bounding Boxes using the East Detection Method </td>
     </tr>
     <tr>
         <td><img src="text_detection/text_detect_inp_image_98.jpg" height="400" width = "600"></td>
