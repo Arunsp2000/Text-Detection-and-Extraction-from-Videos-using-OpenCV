@@ -28,7 +28,7 @@ This is a program implemented to detect and extract text from images using East 
 # Sample Outputs:
 <table>
     <tr>
-        <td colspan = "2" align = "center" > (a) Bounding Boxes using the East Detection Method </td>
+        <td colspan = "2" align = "center" >Bounding Boxes using the East Detection Method </td>
     </tr>
     <tr>
         <td><img src="text_detection/text_detect_inp_image_98.jpg" height="400" width = "600"></td>
