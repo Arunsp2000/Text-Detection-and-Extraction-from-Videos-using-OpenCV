@@ -1,6 +1,9 @@
 # Text Detection and Extraction from Videos using OpenCV
 This is a program implemented to detect and extract text from images using East Detection Model and Pytesseract respectively.
 
+# EAST Dectction Method
+The EAST(Efficient and Accurate Scene Text) is capable of predicting words and lines of text at any angle of 720p images and videos having an FPS of 13.
+
 # Requirements
 - ```imutils==0.5.4```
 - ```pytesseract==0.3.7```
